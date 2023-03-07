@@ -1,5 +1,7 @@
 <template>
-<div>Todo List</div>    
+<div>
+    <h1>Todo List</h1>
+</div>    
 </template>
 <script setup>
 </script>
